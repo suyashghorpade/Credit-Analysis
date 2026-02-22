@@ -1,4 +1,5 @@
 # 📊 Credit Analysis Dashboard
+*Tableau Profile Link* - https://public.tableau.com/app/profile/suyash.ghorpade
 
 ## 🎯 Objective of the Project
 - Analyze applicant credit data and loan distribution patterns.
