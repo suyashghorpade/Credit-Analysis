@@ -1,5 +1,10 @@
 # 📊 Credit Analysis Dashboard
-*Tableau Profile Link* - https://public.tableau.com/app/profile/suyash.ghorpade
+# Tableau Profile Link -
+   https://public.tableau.com/app/profile/suyash.ghorpade
+# Dashboard Image - 
+<img width="919" height="1359" alt="Dashboard 1 (3)" src="https://github.com/user-attachments/assets/505fd454-02ae-459a-8c9b-274f44ba5ed5" />
+
+
 
 ## 🎯 Objective of the Project
 - Analyze applicant credit data and loan distribution patterns.
